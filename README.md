@@ -1,4 +1,4 @@
-# Finding Anaagrams
+# Finding Anagrams
 
 This task required me to create a function that accepts two strings and determine if they are anagrams.
 
